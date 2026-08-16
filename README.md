@@ -52,11 +52,11 @@ The analysis explores:
 
 ## 🔎 About the Project
 
-This project takes a raw CSV dataset and transforms it into an
-interactive Power BI dashboard.
+This project takes a raw CSV dataset and transforms it into an interactive
+Power BI dashboard.
 
-The goal is to explore the available data, identify relevant patterns
-and provide useful insights through data visualization.
+The goal is to explore the available data, identify relevant patterns and
+provide useful insights through data visualization.
 
 The project covers:
 
@@ -64,8 +64,11 @@ The project covers:
 - Data modeling
 - DAX measures
 - Interactive visualizations
-- Product ranking analysis
-- Revenue concentration analysis
+- Product and category ranking analysis
+- Cohort analysis
+- Bookmarks
+- Field parameters
+- Dashboard navigation
 
 ---
 
@@ -76,9 +79,11 @@ revenue-related information.
 
 - **Source:** CSV
 - **Format:** `.csv`
-- **Time period:** ...
-- **Records:** ...
-- **Products:** ...
+- **Total Tables:** 13
+- **FACT Tables:** 5
+- **DIM Tables:** 8
+
+![Product & Category](Images/Model.png)
 
 ---
 
