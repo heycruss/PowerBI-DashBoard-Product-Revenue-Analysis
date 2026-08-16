@@ -1,7 +1,8 @@
 # Product Revenue Analysis
 
 Power BI dashboard for analyzing sales, revenue and product performance
-across orders, order lines, returns, stores and product categories.
+across orders, order lines, returns, customers, suppliers, stores and
+product categories.
 
 ---
 
