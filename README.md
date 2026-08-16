@@ -138,13 +138,12 @@ matching order.
 
 ---
 
-## 📁 Project Structure
+# Author
 
-```text
-PowerBI-DashBoard-Product-Revenue-Analysis/
-│
-├── data/
-├── powerbi/
-│   └── Product-Revenue-Analysis.pbix
-├── screenshots/
-└── README.md
+**Ramón García Rico**
+
+Data Analyst
+
+Tokyo, Japan
+
+LinkedIn: www.linkedin.com/in/ramon-garcia-rico-8702202a0
