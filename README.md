@@ -132,11 +132,31 @@ matching order.
 
 ## 💡 Key Insights
 
-- ...
-- ...
-- ...
 
----
+- **Customer retention:** The April 2023 cohort shows particularly strong
+  retention compared with other cohorts, while average retention remains
+  at around 10% across the analyzed cohorts.
+
+- **Supplier return rates:** Return rates are relatively stable across
+  suppliers, generally ranging between 4% and 6%, with an average of
+  approximately 5%. No clear relationship between supplier revenue and
+  return rate can be observed, as both high- and low-revenue suppliers
+  show different return rates within this range.
+
+- **Return rate over time:** October 2022 recorded the lowest overall
+  return rate at 4.5%, while September 2023 recorded the highest at 5.46%.
+
+- **Product revenue concentration:** Even when selecting the Top 50
+  products, their combined share of total revenue and units sold remains
+  around 1%. This indicates that sales are highly distributed across a
+  large number of products, with no small group of products dominating
+  overall performance.
+
+- **Category distribution:** Revenue and units sold are also relatively
+  evenly distributed across categories. With approximately 30 categories,
+  each category contributes around 3% of total revenue and units sold on
+  average. Category 3 is the strongest-performing category, generating the
+  highest revenue and number of units sold.
 
 # Author
 
