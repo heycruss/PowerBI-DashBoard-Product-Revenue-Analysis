@@ -108,9 +108,6 @@ record in `FACT_Orders`, meaning there are no order items without a
 matching order.
 
 
-
-
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -121,6 +118,17 @@ matching order.
 
 ---
 
+## ⭐ Key Features
+
+| Feature | Description |
+|---|---|
+| **Dynamic Top N Analysis** | Dynamically analyze the top-performing products or categories. |
+| **Cohort Analysis** | Analyze customer retention based on first purchase month. |
+| **Field Parameters** | Dynamically switch between different metrics and analytical views. |
+| **Bookmarks** | Switch between Product and Category analysis within the same dashboard. |
+| **Interactive Navigation** | Navigate between different analytical sections of the report. |
+
+---
 
 ## 💡 Key Insights
 
