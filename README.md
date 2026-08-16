@@ -116,9 +116,6 @@ matching order.
 - Power BI
 - Power Query
 - DAX
-- CSV
-- Git
-- GitHub
 
 ---
 
