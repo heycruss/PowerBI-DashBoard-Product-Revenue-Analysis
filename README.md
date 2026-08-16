@@ -84,8 +84,7 @@ The project covers:
 The analysis is based on a CSV dataset containing transactional sales
 data together with customer, product, supplier, store and category
 information.
-
-- **Source:** CSV
+- **Source format:** CSV
 - **Format:** `.csv`
 - **Total Tables:** 13
 - **Fact Tables:** 5
