@@ -77,7 +77,7 @@ The project covers:
 
 ### Source
 
-- **Dataset:** [Retail Data Warehouse – 12 Table 1M+ Rows Dataset]
+- **Dataset:** Retail Data Warehouse – 12 Table 1M+ Rows Dataset
 - **Source:** Kaggle
 - **Original dataset: [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data](https://www.kaggle.com/datasets/datarspectrum/retail-data-warehouse-12-table-1m-rows-dataset/data)
 
