@@ -75,14 +75,15 @@ The project covers:
 
 ## 🗂️ Dataset
 
-The analysis is based on a CSV dataset containing product and
-revenue-related information.
+The analysis is based on a CSV dataset containing transactional sales
+data together with customer, product, supplier, store and category
+information.
 
 - **Source:** CSV
 - **Format:** `.csv`
 - **Total Tables:** 13
-- **FACT Tables:** 5
-- **DIM Tables:** 8
+- **Fact Tables:** 5
+- **Dimension Tables:** 8
 
 ![Product & Category](Images/Model.png)
 
@@ -120,21 +121,6 @@ matching order.
 
 ---
 
-## 🔍 Analysis
-
-### Revenue Performance
-
-...
-
-### Product Ranking
-
-...
-
-### Revenue Concentration
-
-...
-
----
 
 ## 💡 Key Insights
 
