@@ -16,7 +16,7 @@ The Executive Overview brings together the most relevant business metrics in a s
 ### 2. Sales & Customers
 
 ![Sales & Customers](Images/2.Sales%20%26%20Customers.png)
-
+![Sales & Customers](Images/2.Sales%20%26%20Customers2.png)
 The Sales & Customers page provides a cohort-based view of customer retention, grouping customers by the month of their first purchase. Retention is measured by customer activity over time, allowing customers to be considered active in non-consecutive months.
 
 Additional cohort analyses provide context through revenue and units sold, with the ability to switch between the two metrics dynamically.
@@ -30,7 +30,7 @@ The Supplier & Logistics page focuses on supplier performance, with particular a
 ### 4. Product & Category
 
 ![Product & Category](Images/4.Product%20%26%20Category.png)
-
+![Product & Category](Images/4.Product%20%26%20Category2.png)
 The Product & Category page provides a dynamic analysis of product and
 category performance.
 
