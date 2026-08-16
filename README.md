@@ -1,7 +1,7 @@
 # Product Revenue Analysis
 
-Power BI dashboard for analyzing product revenue performance,
-product rankings and revenue concentration.
+Power BI dashboard for analyzing sales, revenue and product performance
+across orders, order lines, returns, stores and product categories.
 
 ---
 
