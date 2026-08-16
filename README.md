@@ -30,7 +30,7 @@ The Supplier & Logistics page focuses on supplier performance, with particular a
 ### 4. Product & Category
 
 ![Product & Category](Images/4.Product%20%26%20Category.png)
-![Product & Category](Images/4.Product%20%26%20Category.png)
+![Product & Category](Images/4.Product%20%26%20Category2.png)
 The Product & Category page provides a dynamic analysis of product and
 category performance.
 
