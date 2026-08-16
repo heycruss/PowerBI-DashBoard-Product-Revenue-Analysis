@@ -7,30 +7,29 @@ across orders, order lines, returns, stores and product categories.
 
 ## 📊 Dashboard
 
-### 1.Executive Overview
+### 1. Executive Overview
 
-![Product Revenue Dashboard](Images/1.Executive Overview.png)
+![Executive Overview](Images/1.Executive%20Overview.png)
 
-The dashboard provides an interactive overview of product revenue
+The dashboard provides an interactive overview of sales and revenue
 performance, allowing users to explore the data through filters,
 rankings and different revenue metrics.
 
-### 2.Sales & Customers
+### 2. Sales & Customers
 
-![Product Revenue Dashboard](Images/2.Sales & Customers.png)
+![Sales & Customers](Images/2.Sales%20%26%20Customers.png)
 
-Analysis of revenue performance across products and over time.
+Analysis of sales and customer-related metrics across the dataset.
 
-### 3.Supplier & Logistics
+### 3. Supplier & Logistics
 
-![Product Revenue Dashboard](Images/3.Supplier & Logistics.png)
+![Supplier & Logistics](Images/3.Supplier%20%26%20Logistics.png)
 
-Interactive Top N analysis showing product rankings and the
-contribution of the selected products to total revenue.
+Analysis of supplier and logistics-related performance.
 
-### 4.Product & Category
+### 4. Product & Category
 
-![Product Revenue Dashboard](Images/4.Product & Category.png)
+![Product & Category](Images/4.Product%20%26%20Category.png)
 
 ---
 
