@@ -85,6 +85,30 @@ revenue-related information.
 
 ![Product & Category](Images/Model.png)
 
+
+## ⚠️ Data Quality Considerations
+
+During the data exploration, an inconsistency was identified between
+`FACT_Orders` and `FACT_Order_Items`.
+
+Approximately 40K orders in `FACT_Orders` do not have corresponding
+records in `FACT_Order_Items`. These records can be easily identified
+by merging both tables using `order_id` and keeping the unmatched rows.
+
+Since these orders have no associated order items, they may need to be
+excluded from certain sales analyses depending on the intended business
+logic. However, I chose not to remove them from the original dataset,
+as there was not enough information to determine whether these records
+were invalid or represented a different type of order.
+
+On the other hand, every record in `FACT_Order_Items` has a corresponding
+record in `FACT_Orders`, meaning there are no order items without a
+matching order.
+
+
+
+
+
 ---
 
 ## 🛠️ Tools & Technologies
